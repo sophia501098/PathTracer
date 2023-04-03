@@ -1,0 +1,137 @@
+﻿  正在扫描源以查找模块依赖项...
+  Light.h
+  正在编译...
+  Light.h
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\utility.h(9,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\utility.h(28,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(47,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(115,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(142,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(165,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(194,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Triangle.h(75,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\utility.h(9,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\utility.h(28,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(47,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(115,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(142,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(165,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(194,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(31,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(32,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(33,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(40,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(41,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(42,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(47,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(48,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(49,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(54,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(55,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(56,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\xmlLoader.h(72,23): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Model.h(39,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Triangle.h(75,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\AABB.h(20,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\AABB.h(21,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\AABB.h(22,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\AABB.h(23,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\AABB.h(24,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\AABB.h(25,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(50,34): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(53,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(85,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(88,46): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(186,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(251,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(269,1): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\BVH.h(270,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(27,48): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(30,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(32,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(33,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(34,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(40,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(59,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(62,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Render.h(65,1): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+  pugixml.cpp
+  tinyexr.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: 生成“已定义”的宏扩展具有未定义的行为
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\tinyexr.cpp(2035,29): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\tinyexr.cpp(2338,25): warning C4018: “<”: 有符号/无符号不匹配
+  miniz.c
+  正在生成代码
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\PathTracing\Material.h(259): warning C4715: “Material::Sample_BRDF”: 不是所有的控件路径都返回值
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\include\glm\detail\type_vec3.inl(54): warning C4756: 常量算法中溢出
+  2742 of 2788 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    109 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PathTracing.vcxproj -> C:\Users\AAA\Desktop\zyq\CG2023_张宇晴_22221148\code\x64\Release\PathTracing.exe

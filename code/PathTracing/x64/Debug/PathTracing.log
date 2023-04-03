@@ -1,0 +1,81 @@
+﻿  正在扫描源以查找模块依赖项...
+  main.cpp
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\utility.h(9,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\utility.h(28,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Material.h(57,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Material.h(135,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Material.h(167,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Material.h(190,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Material.h(219,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(31,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(32,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(33,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(40,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(41,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(42,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(47,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(48,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(49,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(54,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(55,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(56,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\xmlLoader.h(72,23): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Model.h(39,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Triangle.h(75,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\AABB.h(20,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\AABB.h(21,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\AABB.h(22,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\AABB.h(23,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\AABB.h(24,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\AABB.h(25,65): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(50,34): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(53,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(85,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(88,46): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(186,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(251,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(269,1): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\BVH.h(270,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(27,48): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(30,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(32,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(33,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(34,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(40,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(59,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(62,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Render.h(65,1): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\PathTracing\Material.h(284): warning C4715: “Material::Sample_BRDF”: 不是所有的控件路径都返回值
+  PathTracing.vcxproj -> C:\Users\AAA\Desktop\zyq\张宇晴22221148\code\x64\Debug\PathTracing.exe

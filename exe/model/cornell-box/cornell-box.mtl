@@ -1,0 +1,28 @@
+newmtl cornell_box:DiffuseWhite
+illum 4
+Kd 0.79 0.76 0.73
+Ka 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1.00
+newmtl cornell_box:LeftWall
+illum 4
+Kd 0.00 0.24 0.90
+Ka 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1.00
+newmtl cornell_box:Light
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1.00
+newmtl cornell_box:RightWall
+illum 4
+Kd 0.20 0.76 0.00
+Ka 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1.00
